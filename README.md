@@ -80,7 +80,7 @@ Built an interactive dashboard to visualize:
 - `Business Problem Document.pdf`
 - `cleaned_customer_data.xlsx`
 - `Customer Shopping Behaviour Analysis.ipynb`
-- `Queries.SQL`
+- `Customer Behavior Queries.SQL`
 - `Customer Behavior Dashboard.pbix`
 - Dashboard Screenshot (.png)
 
