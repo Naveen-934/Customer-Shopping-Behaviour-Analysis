@@ -78,7 +78,7 @@ Built an interactive dashboard to visualize:
 ## Files Included
 
 - `Business Problem Document.pdf`
-- `cleaned_customer_data.xlsx`
+- `customer_shopping_behavior_dataset.xlsx`
 - `Customer Shopping Behaviour Analysis.ipynb`
 - `customer_behavior_queries.SQL`
 - `Customer Behavior Dashboard.pbix`
