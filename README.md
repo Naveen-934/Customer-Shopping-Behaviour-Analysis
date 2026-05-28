@@ -88,7 +88,9 @@ Built an interactive dashboard to visualize:
 
 ## Dashboard Preview
 
-(Add your dashboard screenshots here)
+### Customer Behavior Dashboard
+
+![Dashboard Screenshot](Customer%20Behavior%20Dashboard.png)
 
 ---
 
